@@ -1,8 +1,5 @@
 # 2.Fitting Poisson  distribution
 
-## Developed By: PRAVEEN S
-
-## Register No:212222240078
 
 # Aim : 
 
@@ -35,6 +32,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 
+Developed By: PRAVEEN S
+
+Register No:212222240078
 ```
 import numpy as np
 import math
